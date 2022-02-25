@@ -1,0 +1,17 @@
+Project Planning (Project 4)
+
+Deliverables
+1) GitHub Repo
+
+2) Project planning
+
+3) Jupyter Notebook
+  a) Data Cleaning & Preparation (Mitchelle)
+  b) EDA
+    - EDA of Train/Test dataset (Zhi Yuan)
+    - EDA of Spray/Weather dataset (Chee Tzen)
+  c) Preprocessing & Modeling (Raymond and Kris)
+  d) Cost Analysis (Mitchelle)
+
+4) Google Slides
+  - Presentation
